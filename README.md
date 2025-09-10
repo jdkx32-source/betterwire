@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/jdkx32-source/betterwire/blob/main/bw_logo_2.png?raw=true" alt="BetterWire Visual" width="700"/>
+    <img src="https://github.com/jdkx32-source/betterwire/blob/main/bw_logo_3.png?raw=true" alt="BetterWire Visual" width="700"/>
 </p>
 
 <p align="center">
