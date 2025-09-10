@@ -10,7 +10,7 @@
   <a href="#-key-features">Features</a> •
   <a href="#-how-it-works">How It Works</a> •
   <a href="#-quick-start">Quick Start</a> •
-  <a href="https://your-website-url.com/documentation.html"><strong>Full Documentation »</strong></a>
+  <a href="https://betterwire.netlify.app/documentation"><strong>Full Documentation »</strong></a>
 </p>
 
 ## 🚀 What is BetterWire?
