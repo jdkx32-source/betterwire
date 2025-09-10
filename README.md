@@ -30,7 +30,7 @@ Most importantly, I was missing a solution that I could **host myself** to have 
 
 > ### ➡️ Visit the Official Website!
 > For a full feature overview, downloads, and live demos, check out our website:
-> **[https://your-website-url.com](https://your-website-url.com)**
+> **[https://betterwire.netlify.app/](https://betterwire.netlify.app/)**
 
 <br>
 
@@ -55,7 +55,7 @@ The concept is simple. The BetterWire client on your local machine establishes a
 
 ## 🏁 Quick Start
 
-Getting started is easy. For detailed instructions, please read the **[Full Documentation](https://your-website-url.com/documentation.html)**.
+Getting started is easy. For detailed instructions, please read the **[Full Documentation](https://betterwire.netlify.app/documentation)**.
 
 ### 1. Server Setup (on a VPS)
 - Download the latest release for your OS.
