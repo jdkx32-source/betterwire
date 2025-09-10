@@ -19,6 +19,13 @@ BetterWire is a simple, high-performance, and secure tunneling system written in
 
 The entire project is managed through a clean **web dashboard**, making it easy to add or remove port rules on the fly.
 
+## 🤔 Why Was BetterWire Created?
+
+BetterWire was born out of the need for a more stable and flexible tunneling solution. For a long time, I used services like `playit.gg`, which, while great for their simple setup, often came with persistent **ping problems** that impacted the experience.
+
+Most importantly, I was missing a solution that I could **host myself** to have full control over latency and performance. BetterWire was created to fill exactly this gap: it offers the simplicity of well-known services but with the power and sovereignty of a self-hosted solution.
+
+
 <br>
 
 > ### ➡️ Visit the Official Website!
