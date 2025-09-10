@@ -1,4 +1,6 @@
-# ⚡ BetterWire™ ⚡
+<p align="center">
+    <img src="https://github.com/jdkx32-source/betterwire/blob/main/bw_logo_2.png?raw=true" alt="BetterWire Visual" width="700"/>
+</p>
 
 <p align="center">
   <strong>Your Services, Your Rules. Globally Accessible.</strong>
@@ -9,10 +11,6 @@
   <a href="#-how-it-works">How It Works</a> •
   <a href="#-quick-start">Quick Start</a> •
   <a href="https://your-website-url.com/documentation.html"><strong>Full Documentation »</strong></a>
-</p>
-
-<p align="center">
-    <img src="grafik.png" alt="BetterWire Visual" width="700"/>
 </p>
 
 ## 🚀 What is BetterWire?
